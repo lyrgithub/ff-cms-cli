@@ -1,3 +1,3 @@
-# ff-cms-cli
+# Cli for FF CMS
 
-the cli for cms development
+### A simple CLI for FF CMS projects.
